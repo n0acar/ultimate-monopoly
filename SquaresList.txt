@@ -1,0 +1,40 @@
+Go - Mediterranean Avenue - Boardwalk - null
+Mediterranean Avenue - Community Chest 1 - Go - 60 - purple
+Community Chest 1 - Baltic Avenue - Mediterranean Avenue - null
+Baltic Avenue - Income Tax - Community Chest 1 - 60 - purple
+Income Tax - Transit Station 1 - Baltic Avenue - null
+Transit Station 1 - Oriental Avenue - Income Tax - null
+Oriental Avenue - Chance 1 - Transit Station 1 - 100 - light blue
+Chance 1 - Vermont Avenue - Oriental Avenue - null
+Vermont Avenue - Connecticut Avenue - Chance 1 - 100 - light blue
+Connecticut Avenue - Jail - Vermont Avenue - 120 - light blue
+Jail - St. Charles Place - Connecticut Avenue - null
+St. Charles Place - Electric Company - Jail - 140 - magenta
+Electric Company - States Avenue - St. Charles Place - 150 - null
+States Avenue - Virginia Avenue - Electric Company - 140 - magenta
+Virginia Avenue - Pennsylvania RR - States Avenue - 160 - magenta
+Pennsylvania RR - St. James Place - Virginia Avenue - 200 - null
+St. James Place - Community Chest 2 - Pennsylvania RR - 180 - orange
+Community Chest 2 - Tennessee Avenue - St. James Place - null
+Tennessee Avenue - New York Avenue - Community Chest 2 - 180 - orange
+New York Avenue - Free Parking - Tennessee Avenue - 200 - orange
+Free Parking - Kentucky Avenue - New York Avenue - null
+Kentucky Avenue - Chance 2 - Free Parking - 220 - red
+Chance 2 - Indiana Avenue - Kentucky Avenue - null
+Indiana Avenue - Illinois Avenue - Chance 2 - 220 - red
+Illinois Avenue - Transit Station 2 - Indiana Avenue - 240 - red
+Transit Station 2 - Atlantic Avenue - Illinois Avenue - null
+Atlantic Avenue - Ventnor Avenue - Transit Station 2 - 260 - yellow
+Ventnor Avenue - Water Works - Atlantic Avenue - 260 - yellow
+Water Works - Marvin Gardens - Ventnor Avenue - 150 - null
+Marvin Gardens - Roll Three - Water Works - 280 - yellow
+Roll Three - Pacific Avenue - Marvin Gardens - null
+Pacific Avenue - North Carolina Avenue - Roll Three - 300 - green
+North Carolina Avenue - Community Chest 3 - Pacific Avenue - 300 - green
+Community Chest 3 - Pennsylvania Avenue - North Carolina Avenue - null
+Pennsylvania Avenue - Short Line - Community Chest 3 - 320 - green
+Short Line - Chance 3 - Pennsylvania Avenue - 200 - null
+Chance 3 - Park Place - Short Line - null
+Park Place - Luxury Tax - Chance 3 - 350 - blue
+Luxury Tax - Boardwalk - Park Place - null
+Boardwalk - Go - Luxury Tax - 400 - blue 

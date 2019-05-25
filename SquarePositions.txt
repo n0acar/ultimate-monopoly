@@ -1,0 +1,40 @@
+Go - 493 - 493 - 563 - 564
+Mediterranean Avenue - 455 - 493 - 490 - 564
+Community Chest 1 - 418 - 493 - 454 - 564
+Baltic Avenue- 381 - 493 - 417 - 564
+Income Tax - 345 - 493 - 380 - 564
+Transit Station 1- 306 - 493 - 344 - 564
+Oriental Avenue - 270 - 493 - 306 - 564
+Chance 1 - 233 - 493 - 269 - 564
+Vermont Avenue - 196 - 493 - 232 - 564
+Connecticut Avenue - 159 - 493 - 195 - 564
+Jail - 86 - 493 - 158 - 564
+St. Charles Place - 86 - 455 - 158 - 490
+Electric Company - 86 - 418 - 158 - 453
+States Avenue - 86 - 381 - 158 - 417
+Virginia Avenue - 86 - 344 - 158 - 380
+Pennsylvania RR - 86 - 307 - 158 - 343
+St. James Place - 86 - 270 - 158 - 306
+Community Chest 2 - 86 - 233 - 158 - 269
+Tennessee Avenue - 86 - 196 - 158 - 232
+New York Avenue - 86 - 160 - 158 - 195
+Free Parking - 86 - 86 - 158 - 158
+Kentucky Avenue - 159 - 86 - 195 - 158
+Chance 2 - 196 - 86 - 232 - 158
+Indiana Avenue - 233 - 86 - 269 - 158
+Illinois Avenue - 270 - 86 - 306 - 158
+Transit Station 2 - 307 - 86 - 343 - 158
+Atlantic Avenue - 344 - 86 - 380 - 158
+Ventnor Avenue - 381 - 86 - 416 - 158
+Water Works - 417 - 86 - 453 - 158
+Marvin Gardens - 454 - 86 - 490 - 158
+Roll Three - 492 - 86 - 564 - 158
+Pacific Avenue - 492 - 159 - 563 - 193
+North Carolina Avenue - 492 - 194 - 563 - 230
+Community Chest 3 - 492 - 231 - 563 - 267
+Pennsylvania Avenue - 492 - 268 - 563 - 304
+Short Line - 492 - 305 - 563 - 341
+Chance 3 - 492 - 342 - 563 - 378
+Park Place - 492 - 379 - 563 - 414
+Luxury Tax - 492 - 416 - 563 - 452
+Boardwalk - 492 - 453 - 563 - 489
